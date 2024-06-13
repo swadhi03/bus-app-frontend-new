@@ -65,7 +65,7 @@ const SignUp = () => {
                             <button className="btn btn-success" onClick={readValue}>Sign Up</button>
                         </div>
                     </div>
-                    <a href="/signin">New User Click Here</a>
+                    <a href="/">exist account Click Here</a>
                 </div>
             </div>
         </div>
